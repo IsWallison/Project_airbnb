@@ -42,12 +42,12 @@ Você também precisará de um software que possa executar um notebook python .i
 Neste notebook, foi feita uma análise superficial dos dados do airbnb da região de New Brunswick, Canada, tendo o banco de dados sido obtido do Airbnb no mês de novembro de 2022. Para aprimorar a análise, alguns outliers identificados por meio da visualização de histogramas de dados foram eliminados. Finalmente, deve-se notar que esta análise, assim como o conjunto de dados utilizado, é uma versão resumida, com um número limitado de atributos. A falta de uma base de dados grande em alguma regiões dificultar e/ou pode distorcer algumas conclusões.
 
 Análise do dataset:
-* linha: 3232
-* colunas: 18
+* Linhas: 3232
+* Colunas: 18
 
 Remoção de outliers:
-* preço
-* noites minimas
+* Preço
+* Noites minimas
 
 Preço médio da hospedagem:
 Valor Médio = 157.72$
