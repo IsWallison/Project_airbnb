@@ -11,6 +11,9 @@ O Airbnb já é considerado como sendo a maior empresa hoteleira da atualidade. 
 A Startup fundada 10 anos atrás, conta com mais de 4 milhões de anfitriões, que já receberam mais de 1 bilhão de hóspedes em quase todos os países, desafiando as redes hoteleiras tradicionais.
 Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das principais cidades do mundo. Por meio do portal Inside Airbnb, é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de Data Science.
 
+New Brunswick é uma região do leste do Canadá, tendo sua capital como Fredericton. Além de ser circundada pelo Atlântico, a província possui vários rios, florestas de pinheiros, montanhas e a famosa baía de Fundy, que é conhecida por suas marés extremas e pela presença frequente de baleias, o que pode ser uma ótima pedida para os aventureiros que desejam ver o animal de perto em seu habitat natural.
+A maior cidade é Moncton, porém, o território possui cerca de 70 mil quilômetros quadrados. Destes, 80% é composto de florestas e somente 20% é habitado ou destinado à agricultura. Uma curiosidade é que New Brunswick é a única província oficialmente bilíngue do país, com um percentual muito grande se sua população que fala inglês e francês.
+
 # Dataset
 O conjunto de dados pode ser facilmente encontrado aqui: http://insideairbnb.com/get-the-data/
 
