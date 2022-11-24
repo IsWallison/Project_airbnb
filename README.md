@@ -9,7 +9,7 @@
 # Analise dos Dados do Airbnb de New Brunswick, Canadá
 <center><img alt="Analisando Airbnb" width="10%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
 O Airbnb já é considerado como sendo a maior empresa hoteleira da atualidade. Ah, o detalhe é que ele não possui nenhum hotel!
-A Startup fundada 10 anos atrás, conta com mais de 4 milhões de anfitriões, que já receberam mais de 1 bilhão de hóspedes em quase todos os países, desafiando as redes hoteleiras tradicionais.
+A Startup fundada a quase 15 anos, conta com mais de 4 milhões de anfitriões, que já receberam mais de 1 bilhão de hóspedes em quase todos os países, desafiando as redes hoteleiras tradicionais.
 Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das principais cidades do mundo. Por meio do portal Inside Airbnb, é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de Data Science.
 
 
