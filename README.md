@@ -5,7 +5,7 @@
   <img src="nb.jpg" >
 </p>
 
-# Analise dos Dasdos do Airbnb de New Brunswick, Canadá
+# Analise dos Dados do Airbnb de New Brunswick, Canadá
 
 O Airbnb já é considerado como sendo a maior empresa hoteleira da atualidade. Ah, o detalhe é que ele não possui nenhum hotel!
 A Startup fundada 10 anos atrás, conta com mais de 4 milhões de anfitriões, que já receberam mais de 1 bilhão de hóspedes em quase todos os países, desafiando as redes hoteleiras tradicionais.
