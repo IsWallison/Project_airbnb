@@ -39,7 +39,7 @@ Você também precisará de um software que possa executar um notebook python .i
 * Qual é a média do mínimo de noites para aluguel ?
 
 # Resultados
-Neste notebook, foi feita uma análise superficial dos dados do airbnb da região de New Brunswick, Canada, tendo o banco de dados sido obtido do Airbnb no mês de novembro de 2022. Para aprimorar a análise, alguns outliers identificados por meio da visualização de histogramas de dados foram eliminados. Finalmente, deve-se notar que esta análise, assim como o conjunto de dados utilizado, é uma versão resumida, com um número limitado de atributos. A falta de uma base de dados grande em alguma regiões dificultar e/ou pode distorcer algumas conclusões.
+Neste notebook, foi feita uma análise superficial dos dados do airbnb da região de New Brunswick, Canada. O banco de dados foi obtido do Airbnb no mês de novembro de 2022. Para aprimorar a análise, alguns outliers identificados por meio da visualização de histogramas de dados foram eliminados. Finalmente, deve-se notar que esta análise, assim como o conjunto de dados utilizado, é uma versão resumida, com um número limitado de atributos. A falta de uma base de dados grande em alguma regiões tende a dificultar e/ou pode distorcer algumas conclusões
 
 Análise do dataset:
 * Linhas: 3232
